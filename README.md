@@ -1,16 +1,22 @@
-### Hi there 👋
+# Mi camino con la programación
 
-<!--
-**BeosSantiagoBecerraEspitia/BeosSantiagoBecerraEspitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+empecé a los 13 al encontrar el programa scratch  desarrollando pequeños videojuegos que ahora están perdidos , mas tarde en el colegio aprendí HTML css JavaScript creando así mi primera pagina , mas tarde continuando con mi formación en el sena aprendí a usar php laravel y  algo de c++ y un poco mas de Python a la vez que desarrollaba un proyecto en grupo donde utilizaba todos mis conocimientos como analista para crear un sistema de organización acorde a  las necesidades de mi institución
 
-Here are some ideas to get you started:
+# Experiencia laboral
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En mi formación como QA en la Cámara de Comercio de Bogotá  analice requerimientos a través de historias de usuario cree escenarios de prueba  y los ejecute para probar la calidad del producto también ejecute pruebas de carga con jmeter y asistí en su posterior análisis , también hice parte de una iniciativa para presentar nuevas tecnologías relacionadas con IA y como podría aumentar la eficiencia laboral 
+
+# Intereses personales
+
+- Matemáticas
+- lectura
+- análisis de datos
+- Inteligencia artificial
+- Videojuegos
+- hacking
+
+# Metas personales
+
+- trabajar en seguridad informática
+- crear mi propio negocio/app con inteligencia artificial
+- estudiar astrofísica
