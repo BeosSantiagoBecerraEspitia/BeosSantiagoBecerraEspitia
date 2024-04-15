@@ -1,4 +1,4 @@
-![space man image]([https://1.bp.blogspot.com/-LVLJNeSe5cs/XnMtL44IrRI/AAAAAAAADac/b8-O4IWYVDc65wgXdJjCz8uZg0J0tJrwQCLcBGAsYHQ/s1600/NGC7293_Ha_RGB_2.jpg](https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2022/07/07/62c6d803449f2.r_d.573-227.png))
+![space man image](https://www.lavanguardia.com/files/image_948_465/files/fp/uploads/2022/07/07/62c6d803449f2.r_d.573-227.png)
 
 # Mi camino con la programación
 
